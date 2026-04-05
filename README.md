@@ -1,2 +1,2 @@
-# HalfCheetah-PLA-videos
-HalfCheetah PLA videos
+# HalfCheetah-VLA-videos
+HalfCheetah VLA videos
